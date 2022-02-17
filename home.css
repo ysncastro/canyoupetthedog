@@ -1,7 +1,8 @@
-h1 {
+body {
     text-align: center;
 }
 
-body {
-
+a {
+    text-decoration: none;
+    color: blueviolet;
 }
