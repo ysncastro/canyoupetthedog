@@ -1,0 +1,1 @@
+Projeto para aprender testes E2E (ponta à ponta), com um create e um read.
